@@ -58,3 +58,5 @@ Result: 8
 
 Process finished with exit code 0
 ```
+## RESULT:
+Thus, the java program to find the power of a number raised to the other is created and verified.
